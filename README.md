@@ -1,2 +1,2 @@
-# .NET Mentoring Program Intermediate 2022 Q3 [BY,PL,LT]
+# .NET Mentoring Program Intermediate 2022 Q3
 # Aliaksei Zabkou's home tasks
